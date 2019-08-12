@@ -11,9 +11,8 @@
     <link rel="stylesheet" href="css/animate.css">
   <link rel="stylesheet" href="css/site.css">
     
-     <link rel="stylesheet" href="css/lightbox.min.css">
-    
-    
+     <link rel="stylesheet" href="css/lightbox.min.css">    
+     
 </head>
 	
 	
@@ -198,7 +197,7 @@ JavaScript&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 			<span style="color: #FFFFFF; font-size: 50px; text-shadow: 10px 20px 2px #292929;">Our Projects</span><p><span style="color: #FFFFFF; font-size: 18px; font-family: cuong5">Transform organizations ranging from five to 5000 staff by Introducing new processes, technology, and culture change for improved creativity. </span></p>
 		</div>
 		
-		<div class="conten10">
+		<div class="conten10 wow bounceInLeft " >
 			
 			<div class="item101 " > 
             <a class="example-image-link" href="images/3.gif" data-lightbox="example-set" data-title="The next image in the set is preloaded as you're viewing."><img class="example-image" src="images/3.gif" alt="" /></a>
@@ -206,7 +205,7 @@ JavaScript&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
             
             
             </div>
-			<div class="item102 wow bounceInRight" >
+			<div class="item102 wow bounceInRight " >
 				<a class="example-image-link" href="images/4.gif" data-lightbox="example-set" data-title="The next image in the set is preloaded as you're viewing."><img class="example-image" src="images/4.gif" alt="" /></a>
 			</div>
 			
@@ -283,26 +282,7 @@ JavaScript&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 				</div>
 	            </div>
 	
-	<script src="js/wow.js"></script>
-  <script>
-    wow = new WOW(
-      {
-        animateClass: 'animated',
-        offset:       100,
-        callback:     function(box) {
-          console.log("WOW: animating <" + box.tagName.toLowerCase() + ">")
-        }
-      }
-    );
-    wow.init();
-    document.getElementById('moar').onclick = function() {
-      var section = document.createElement('section');
-      section.className = 'section--purple wow fadeInDown';
-      this.parentNode.insertBefore(section, this);
-    };
-  </script>
-  
-  <script>
+<script>
 // When the user scrolls down 20px from the top of the document, show the button
 window.onscroll = function() {scrollFunction()};
 
@@ -320,6 +300,26 @@ function topFunction() {
   document.documentElement.scrollTop = 0;
 }
 </script>
+  
+   <script src="dist/wow.js"></script>
+  <script>
+    wow = new WOW(
+      {
+        animateClass: 'animated',
+        offset:       100,
+        callback:     function(box) {
+          console.log("WOW: animating <" + box.tagName.toLowerCase() + ">")
+        }
+      }
+    );
+    wow.init();
+    document.getElementById('moar').onclick = function() {
+      var section = document.createElement('section');
+      section.className = 'section--purple wow fadeInDown';
+      this.parentNode.insertBefore(section, this);
+    };
+  </script>
+
   
   <script src="js/lightbox-plus-jquery.min.js"></script>
 
