@@ -1,0 +1,328 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Untitled Document</title>
+	<link rel="stylesheet" type="text/css" href="css/main.css">
+	
+	<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    
+    
+    <link rel="stylesheet" href="css/animate.css">
+  <link rel="stylesheet" href="css/site.css">
+    
+     <link rel="stylesheet" href="css/lightbox.min.css">
+    
+    
+</head>
+	
+	
+	
+	
+
+<body>
+	<div class="outer">
+	<div class="line"></div>
+	<div class="header">
+	<div class="logo"><img src="images/0_02.gif">
+	<div class="slider"><span style="font-size: 20px; color:#F0AA13 ">HELLO!</span><br<span style="color: #FFFFFF; font-size: 50px">I'm </span><span style="color: #F0AA13;font-size: 50px ">Mirza<br>
+				Thompson</span><br><br><span style="color: #FFFFFF; font-size: 18px">A Freelance Web Designer 5years Experience </span>
+					
+	<div class="boder1">
+    <a href="#"><span 
+	style="font-size: 18px; ">HERE ME</span>
+    </a></div>
+					
+	<div class="boder2"><a href="#"><span style="font-size: 16px; ">MY WORKS</span></a></div>
+				</div>
+	</div>
+			
+			<div class="menu">
+				
+				<ul>
+					<li><a href="#"><span style="color:#F0AA13 ">Home</span><hr width="40px" align="center" size="3px" color="#F0AA13"></a></li>
+					<li><a href="#"><span style="color:#FBF5F6 ">About</span></a></li>
+					<li><a href="#"><span style="color:#FBF5F6 ">Resume</span></a></li>
+					<li><a href="#"><span style="color:#FBF5F6 ">Services</span></a></li>
+					<li><a href="#"><span style="color:#FBF5F6 ">Skills</span></a></li>
+					<li><a href="#"><span style="color:#FBF5F6 ">Projects</span></a></li>
+					<li><a href="#"><span style="color:#FBF5F6 ">My Blog</span></a></li>
+					<li><a href="#"><span style="color:#FBF5F6 ">Contact</span></a></li>
+				</ul></div>
+		</div>
+		
+		<div class="conten">
+			
+			<div class="conten1"></div>
+			
+			<div class="conten2"><span style="color: #FFFFFF; font-size: 50px; text-shadow: 10px 20px 2px #292929;">About</span><span style="color: #FFFFFF; font-size: 50px"> Me</span><p><span style="color: #FFFFFF; font-size: 18px; font-family: cuong5">Technology leader focused on Innovation strategy & change management, business transformation, operational excellence, and organizational capability improvement</span></p>
+				
+			<p><span style="color: #FFFFFF; font-size: 18px; font-family: cuong5">Name:</span><span style="color: #FFFFFF; font-size: 18px; font-family: cuong5">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mirza Thompson</span></p>
+				
+				<p><span style="color: #FFFFFF; font-size: 18px; font-family: ">Date of birth:</span><span style="color: #FFFFFF; font-size: 18px; font-family: cuong5">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;January 01,1987</span></p>
+				
+				<p><span style="color: #FFFFFF; font-size: 18px; font-family: cuong5">Address:</span><span style="color: #FFFFFF; font-size: 18px; font-family: cuong5">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;San Francisco CA 97987 USA</span></p>
+				
+				<p><span style="color: #FFFFFF; font-size: 18px; font-family: cuong5">Zip code:</span><span style="color: #FFFFFF; font-size: 18px; font-family: cuong5">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1000</span></p>
+				
+				<p><span style="color: #FFFFFF; font-size: 18px; font-family: cuong5">Email:</span><span style="color: #FFFFFF; font-size: 18px; font-family: cuong5">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cuong51@gmail.com</span></p>
+				
+				<p><span style="color: #FFFFFF; font-size: 18px; font-family: cuong5">Phone:</span><span style="color: #FFFFFF; font-size: 18px; font-family: cuong5">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0123456789</span></p><br>
+				
+				<p><span style="color: #F0AA13;font-size: 24px;font-family: cuong5 ">120&nbsp;&nbsp;</span><span style="color: #FFFFFF; font-size: 24px;font-family: cuong5">Project complet </span></p>
+		
+		        <div class="conten201">
+				     <a href="#"><span style="font-size: 16px; ">DOWNLOAD CV</span></a>
+		        </div>
+		
+		  </div>
+		</div>
+		
+		<div class="conten3"><span style="color: #FFFFFF; font-size: 50px; text-shadow: 10px 20px 2px #292929;">Resuma</span><p><span style="color: #FFFFFF; font-size: 18px; font-family: cuong5">Transform organizations ranging from five to 5000 staff by Introducing new processes, technology, and culture change for improved creativity. </span></p>
+		</div>
+		
+		<span style="line-height: 30px">
+			<div class="conten4">
+			<div class="item"><span style="color: #F0AA13; font-size: 40px; font-family: cuong5"><P>2014-2015</P></span><span style="color: #FFFFFF; font-size: 20px; font-family: cuong5"><P>Master Degree of Design</P></span><span style="color: #FFFFFF; font-size: 12px; font-family: cuong5"><P>ARENA NGUYEN KIEM UNIVERSITY</P></span><span style="color: #FFFFFF; font-size: 9px; font-family: cuong5"><p>Historically, surnames evolved as a way to sort people into groups - by occupation, place of origin, clan affiliation, patronage, parentage, adoption, and even physical characteristics (like red hair). Many of the modern surnames in the dictionary can be traced back to Britain and Ireland.</p></span></div>
+			<div class="item"><span style="color: #F0AA13; font-size: 40px; font-family: cuong5"><P>2014-2015</P> </span>
+				<span style="color: #FFFFFF; font-size: 20px; font-family: cuong5"><P>Master Degree of Design</P></span>
+				<span style="color: #FFFFFF; font-size: 12px; font-family: cuong5"><P>ARENA NGUYEN KIEM UNIVERSITY</P></span>
+				<span style="color: #FFFFFF; font-size: 9px; font-family: cuong5"><p>Historically, surnames evolved as a way to sort people into groups - by occupation, place of origin, clan affiliation, patronage, parentage, adoption, and even physical characteristics (like red hair). Many of the modern surnames in the dictionary can be traced back to Britain and Ireland.</p></span>
+				</div>
+		</div>
+			<br>
+		
+		<div class="conten4">
+			<div class="item"><span style="color: #F0AA13; font-size: 40px; font-family: cuong5"><P>2014-2015</P></span><span style="color: #FFFFFF; font-size: 20px; font-family: cuong5"><P>Master Degree of Design</P></span><span style="color: #FFFFFF; font-size: 12px; font-family: cuong5"><P>ARENA NGUYEN KIEM UNIVERSITY</P></span><span style="color: #FFFFFF; font-size: 9px; font-family: cuong5"><p>Historically, surnames evolved as a way to sort people into groups - by occupation, place of origin, clan affiliation, patronage, parentage, adoption, and even physical characteristics (like red hair). Many of the modern surnames in the dictionary can be traced back to Britain and Ireland.</p></span></div>
+			<div class="item"><span style="color: #F0AA13; font-size: 40px; font-family: cuong5"><P>2014-2015</P></span><span style="color: #FFFFFF; font-size: 20px; font-family: cuong5"><P>Master Degree of Design</P></span><span style="color: #FFFFFF; font-size: 12px; font-family: cuong5"><P>ARENA NGUYEN KIEM UNIVERSITY</P></span><span style="color: #FFFFFF; font-size: 9px; font-family: cuong5"><p>Historically, surnames evolved as a way to sort people into groups - by occupation, place of origin, clan affiliation, patronage, parentage, adoption, and even physical characteristics (like red hair). Many of the modern surnames in the dictionary can be traced back to Britain and Ireland.</p></span></div>
+		</div><br>
+		
+		
+		<div class="conten4">
+			<div class="item"><span style="color: #F0AA13; font-size: 40px; font-family: cuong5"><P>2014-2015</P></span><span style="color: #FFFFFF; font-size: 20px; font-family: cuong5"><P>Master Degree of Design</P></span><span style="color: #FFFFFF; font-size: 12px; font-family: cuong5"><P>ARENA NGUYEN KIEM UNIVERSITY</P></span><span style="color: #FFFFFF; font-size: 9px; font-family: cuong5"><p>Historically, surnames evolved as a way to sort people into groups - by occupation, place of origin, clan affiliation, patronage, parentage, adoption, and even physical characteristics (like red hair). Many of the modern surnames in the dictionary can be traced back to Britain and Ireland.</p></span></div>
+			<div class="item"><span style="color: #F0AA13; font-size: 40px; font-family: cuong5"><P>2017-2018</P></span><span style="color: #FFFFFF; font-size: 20px; font-family: cuong5"><P>UI/UX Designer</P></span><span style="color: #F0AA13; font-size: 12px; font-family: cuong5"><P>NHAT TRUNG VLOG</P></span><span style="color: #FFFFFF; font-size: 9px; font-family: cuong5"><p>Historically, surnames evolved as a way to sort people into groups - by occupation, place of origin, clan affiliation, patronage, parentage, adoption, and even physical characteristics (like red hair). Many of the modern surnames in the dictionary can be traced back to Britain and Ireland.</p></span></div>
+		</div></span>
+		
+		<div class="conten401"><a href="#"><span style="font-size: 20px; ">DOWNLOAD CV</span></a></div>
+		
+		<div class="conten5"><span style="color: #FFFFFF; font-size: 50px; text-shadow: 10px 20px 2px #292929;">Services</span><p><span style="color: #FFFFFF; font-size: 18px; font-family: cuong5">Transform organizations ranging from five to 5000 staff by Introducing new processes, technology, and culture change for improved creativity. </span></p>
+		</div>
+		
+		<span style="line-height: 30px">
+		<div class="conten6">
+		<div class="item06">
+		<div class="boder06"></div><span style="color:#FBF5F6 ">WEB DESIGN<hr width="40px" align="center" size="1.5px" color="#F0AA13"></span>
+		</div>
+			
+		<div class="item06">
+		<div class="boder06"></div><span style="color:#FBF5F6 ">WEB DESIGN<hr width="40px" align="center" size="1.5px" color="#F0AA13"></span>
+		</div>
+			
+		<div class="item06">
+		<div class="boder06"></div>
+		<span style="color:#FBF5F6 ">WEB DESIGN<hr width="40px" align="center" size="1.5px" color="#F0AA13"></span>
+		</div>
+		</div>
+			
+		<br>
+			
+		<div class="conten6">
+		<div class="item06">
+		<div class="boder06"></div><span style="color:#FBF5F6 ">WEB DESIGN<hr width="40px" align="center" size="1.5px" color="#F0AA13"></span>
+		</div>
+			
+		<div class="item06">
+		<div class="boder06"></div>
+		<span style="color:#FBF5F6 ">WEB DESIGN<hr width="40px" align="center" size="1.5px" color="#F0AA13"></span>
+		</div>
+			
+		<div class="item06">
+		<div class="boder06"></div>
+		<span style="color:#FBF5F6 ">WEB DESIGN<hr width="40px" align="center" size="1.5px" color="#F0AA13"></span>
+		</div>
+		</div>
+		</span>
+		
+		<div class="conten7"><span style="color: #FFFFFF; font-size: 50px">My&nbsp;</span><span style="color: #FFFFFF; font-size: 50px; text-shadow: 10px 20px 2px #292929;">Skills</span><p><span style="color: #FFFFFF; font-size: 18px; font-family: cuong5">Transform organizations ranging from five to 5000 staff by Introducing new processes, technology, and culture change for improved creativity. </span>
+		</p>
+		</div>
+		
+		<div class="conten8">
+			
+			<div class="conten801">
+				<span style="font-size: 16px; color:#FFFFFF; line-height: 60px  ">
+HTML &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;90%
+					
+<div class="container">
+  <div class="skills html"></div>
+</div><br>
+
+CSS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;80%
+<div class="container">
+  <div class="skills css"></div>
+</div><br>
+
+JavaScript&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;65%
+<div class="container">
+  <div class="skills js"></div>
+</div>
+</span>
+			
+			</div>
+			
+			<div class="conten802">
+				<span style="font-size: 16px; color:#FFFFFF; line-height: 60px  ">
+HTML &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;90%
+					
+<div class="container">
+  <div class="skills html"></div>
+</div><br>
+
+CSS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;80%
+<div class="container">
+  <div class="skills css"></div>
+</div><br>
+
+JavaScript&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;65%
+<div class="container">
+  <div class="skills js"></div>
+</div>
+</span>
+			
+			</div>
+		
+			
+		</div>
+		
+		<div class="conten9">
+			<span style="color: #FFFFFF; font-size: 50px; text-shadow: 10px 20px 2px #292929;">Our Projects</span><p><span style="color: #FFFFFF; font-size: 18px; font-family: cuong5">Transform organizations ranging from five to 5000 staff by Introducing new processes, technology, and culture change for improved creativity. </span></p>
+		</div>
+		
+		<div class="conten10">
+			
+			<div class="item101 " > 
+            <a class="example-image-link" href="images/3.gif" data-lightbox="example-set" data-title="The next image in the set is preloaded as you're viewing."><img class="example-image" src="images/3.gif" alt="" /></a>
+            
+            
+            
+            </div>
+			<div class="item102 wow bounceInRight" >
+				<a class="example-image-link" href="images/4.gif" data-lightbox="example-set" data-title="The next image in the set is preloaded as you're viewing."><img class="example-image" src="images/4.gif" alt="" /></a>
+			</div>
+			
+	
+		</div>
+		<div class="conten11">
+			
+		<div class="item111">
+        <a class="example-image-link" href="images/5.gif" data-lightbox="example-set" data-title="The next image in the set is preloaded as you're viewing."><img class="example-image" src="images/5.gif" alt="" /></a>
+        </div>
+        
+		<div class="item111">
+        <a class="example-image-link" href="images/6.gif" data-lightbox="example-set" data-title="The next image in the set is preloaded as you're viewing."><img class="example-image" src="images/6.gif" alt="" /></a>
+        </div>
+		<div class="item111">
+        <a class="example-image-link" href="images/7.gif" data-lightbox="example-set" data-title="The next image in the set is preloaded as you're viewing."><img class="example-image" src="images/7.gif" alt="" /></a>
+        </div>
+        
+        </div>
+		
+		<div class="conten12">
+			<div class="item121">
+            <a class="example-image-link" href="images/8.gif" data-lightbox="example-set" data-title="The next image in the set is preloaded as you're viewing."><img class="example-image" src="images/8.gif" alt="" /></a>
+            </div>
+			
+			<div class="item122">
+            <a class="example-image-link" href="images/9.gif" data-lightbox="example-set" data-title="The next image in the set is preloaded as you're viewing."><img class="example-image" src="images/9.gif" alt="" /></a>
+            </div>
+		</div>
+		
+		<div class="conten13"><span style="color: #FFFFFF; font-size: 50px; text-shadow: 10px 20px 2px #292929;">Contact Me</span><p><span style="color: #FFFFFF; font-size: 18px; font-family: cuong5">Transform organizations ranging from five to 5000 staff by Introducing new processes, technology, and culture change for improved creativity. </span></p></div>
+		
+	  <div class="millder">
+			
+			<div class="millder1"></div>
+			
+		  <div class="millder2">
+				<div class="millder201"><input style="tex; width: 465px; height: 50px; font-size: 20px; border-radius: 5px"placeholder="Your Name"></div>
+				<div class="millder201"><input style="mail; width: 465px; height: 50px; font-size: 20px; border-radius: 5px"placeholder="Your Mail"></div>
+				<div class="millder201"><input style="subject;width: 465px; height: 50px; font-size: 20px; border-radius: 5px"placeholder="Subject"></div>
+                <div class="millder201">
+			    <textarea cols="41" rows="8"  placeholder="Message" style="font-size: 20px; border-radius: 5px"></textarea>
+			  </div>
+              <div class="millder202">
+				  <input type="submit" value="Send Message" style="width: 200px;height: 50px; border-radius: 15px; font-size: 20px; color: darkorange;background-color:#FFFFFF  " >
+			  </div>
+                </div>
+			  
+			  
+			  
+		  </div>
+          
+          <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+          
+		</div>
+		
+		<div class="footer">
+			<div class="footer1">
+				
+				<div class="footer101"><p><span style="color: #FFFFFF; font-size: 20px; font-family: cuong5">About</span></p><span style="color: #FFFFFF; font-size: 14px; font-family: cuong5; line-height: 30px">The Rural and Regional Enterprise<br> Scholarships Program supports<br>  students with the costs<br>  of studying</span></div>
+				
+				<div class="footer102"><p><span style="color: #FFFFFF; font-size: 20px; font-family: cuong5">Links</span></p><span style="color: #FFFFFF; font-size: 14px; font-family: cuong5; line-height: 40px">
+					<i class="material-icons">crop_portrait</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Home<br><i class="material-icons">crop_portrait</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;About<br><i class="material-icons">crop_portrait</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Services<br><i class="material-icons">crop_portrait</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Projects<br><i class="material-icons">crop_portrait</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Contat</span></div>
+				
+			</div>
+			
+			<div class="footer2">
+				
+				<div class="footer201"><p><span style="color: #FFFFFF; font-size: 20px; font-family: cuong5">Services</span></p><span style="color: #FFFFFF; font-size: 14px; font-family: cuong5; line-height: 40px"><i class="material-icons">crop_portrait</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Web Design<br><i class="material-icons">crop_portrait</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Web Development<br><i class="material-icons">crop_portrait</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Business StrategyData<br> <i class="material-icons">crop_portrait</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Anlysis<br><i class="material-icons">crop_portrait</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Graphyc Design</span></div>
+				
+				<div class="footer202"><p><span style="color: #FFFFFF; font-size: 20px; font-family: cuong5">Have a Questions?</span></p><span style="color: #FFFFFF; font-size: 14px; font-family: cuong5; line-height: 40px"><i class="material-icons">my_location</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;203 Fake St.Mountain View.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;San Francisco. California.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;USA<br>
+				<i class="material-icons">local_phone</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+20123456789<br>
+				<i class="material-icons">email</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;info@yourdomain.com</span></div>
+				</div>
+	            </div>
+	
+	<script src="js/wow.js"></script>
+  <script>
+    wow = new WOW(
+      {
+        animateClass: 'animated',
+        offset:       100,
+        callback:     function(box) {
+          console.log("WOW: animating <" + box.tagName.toLowerCase() + ">")
+        }
+      }
+    );
+    wow.init();
+    document.getElementById('moar').onclick = function() {
+      var section = document.createElement('section');
+      section.className = 'section--purple wow fadeInDown';
+      this.parentNode.insertBefore(section, this);
+    };
+  </script>
+  
+  <script>
+// When the user scrolls down 20px from the top of the document, show the button
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+  if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+    document.getElementById("myBtn").style.display = "block";
+  } else {
+    document.getElementById("myBtn").style.display = "none";
+  }
+}
+
+// When the user clicks on the button, scroll to the top of the document
+function topFunction() {
+  document.body.scrollTop = 10;
+  document.documentElement.scrollTop = 0;
+}
+</script>
+  
+  <script src="js/lightbox-plus-jquery.min.js"></script>
+
+  
+</body>
+</html>
